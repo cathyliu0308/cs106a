@@ -167,7 +167,4 @@ public class ImageAlgorithms implements ImageAlgorithmsInterface {
 	}
 
 
-    public void mystery(GImage source) {
-        // TODO: (optional) have some fun!
-    }
 }

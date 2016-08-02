@@ -153,8 +153,5 @@ public class Melody implements MelodyInterface {
 		
 	}
 	
-	public String toString() {
-		// TODO: implement this method (optional)
-		return "";
-	}
+
 }
